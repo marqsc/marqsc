@@ -25,8 +25,8 @@ I'm 18 years old, I study IT at the IFBA. Always creating more interest in web d
 </div>
 
 ### Some Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marqsc)](https://github.com/marqsc/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsc&layout=compact)](https://github.com/marqsc/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marqsc&show_icons=true&theme=dark)](https://github.com/marqsc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsc&layout=compact&show_icons=true&theme=dark)](https://github.com/marqsc/github-readme-stats)
 
 ### Contacts and Social Media
 
