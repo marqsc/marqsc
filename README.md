@@ -3,6 +3,7 @@
 I'm 18 years old, I study IT at the IFBA. Always creating more interest in web development. My biggest interest is in Front-end (Client-side).
 <hr>
 
+
 ### Some Skills
 
 <div style="display: inline_block"><br>
@@ -21,6 +22,7 @@ I'm 18 years old, I study IT at the IFBA. Always creating more interest in web d
     
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
   </div>
+
 
 ### Ferramentas
   
