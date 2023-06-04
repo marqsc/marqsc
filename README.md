@@ -20,9 +20,22 @@ I'm 18 years old, I study IT at the IFBA. Always creating more interest in web d
           
     
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
+  </div>
+
+### Ferramentas
+  
+  <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+         
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+</div>
           
   
-</div>
+
 
 ### Some Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marqsc&show_icons=true&theme=dark)](https://github.com/marqsc/github-readme-stats)
