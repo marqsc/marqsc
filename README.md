@@ -1,6 +1,6 @@
 ## Hello, I'm Claudio Marques! 
 
-I am a 19-year-old IT professional with a technical degree in Informatics and currently pursuing a Bachelor's in Information Systems at IFBA. Passionate about web development, I have a strong interest in Front-end (Client-side) development, focusing on creating intuitive and engaging user experiences. Constantly learning and exploring new technologies, I am committed to enhancing my skills and contributing to innovative projects.
+I am a 20-year-old IT professional with a technical degree in Informatics and currently pursuing a Bachelor's in Information Systems at IFBA. Passionate about web development, I have a strong interest in Front-end (Client-side) development, focusing on creating intuitive and engaging user experiences. Constantly learning and exploring new technologies, I am committed to enhancing my skills and contributing to innovative projects.
 <hr>
 
 
